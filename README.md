@@ -1,2 +1,1 @@
-Mahasedra Github local project
-Switch branch to see more
+💻🖥 React.js, Typescript, Symfony Developer
