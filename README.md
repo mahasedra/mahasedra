@@ -1,1 +1,1 @@
-💻🖥 React, Angular, Typescript, Symfony Developer
+💻🖥 React, Angular & Symfony Developer
