@@ -1,1 +1,1 @@
-💻🖥 React, Angular & Symfony Developer
+💻🖥 I'm Mahasedra, High Skilled React, Angular & Symfony Developer
